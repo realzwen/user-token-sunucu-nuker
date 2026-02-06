@@ -74,7 +74,7 @@ This tool is provided for educational purposes only. The author is not responsib
 
 ## License
 
-MIT License - feel free to use and modify
+Apache License
 
 ## Author
 
